@@ -40,7 +40,7 @@ export const sendContactEmail = createServerFn({ method: "POST" })
       },
     });
 
-    const mailTo = process.env["MAIL_TO"] || "varadmule17@gmail.com";
+    const mailTo = process.env["MAIL_TO"] || "info@zensustech.com";
     const mailCc = process.env["MAIL_CC"] || "nikita.nagargoje@cybaemtech.com";
     const fromAddress = `"ZensusTech" <no-reply@zensustech.com>`;
 

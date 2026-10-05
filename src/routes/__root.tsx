@@ -107,7 +107,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           name: "ZensusTech",
           description:
             "Next-generation cloud technology and digital solutions company, and maker of ZenAI-Ops — an intelligent Cloud operations, security, compliance and optimization platform.",
-          email: "varadmule17@gmail.com",
+          email: "info@zensustech.com",
           telephone: "+91 9823 10 11 12",
           areaServed: ["IN", "GB"],
         }),

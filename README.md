@@ -1253,7 +1253,7 @@ Display:
 
 **Email**
 
-[varadmule17@gmail.com](mailto:varadmule17@gmail.com)
+[info@zensustech.com](mailto:info@zensustech.com)
 
 **Phone**
 
@@ -1582,7 +1582,7 @@ Contact
 
 ### Contact
 
-[varadmule17@gmail.com](mailto:varadmule17@gmail.com)
+[info@zensustech.com](mailto:info@zensustech.com)
 +91 9823 10 11 12
 India | United Kingdom
 

@@ -111,8 +111,8 @@ export function Footer() {
           <ul className="mt-4 space-y-4 text-sm text-slate-600">
             <li className="flex items-center gap-2.5">
               <Mail className="size-4.5 text-primary shrink-0" aria-hidden="true" />
-              <a href="mailto:varadmule17@gmail.com" className="transition-colors hover:text-primary font-medium text-slate-700">
-                varadmule17@gmail.com
+              <a href="mailto:info@zensustech.com" className="transition-colors hover:text-primary font-medium text-slate-700">
+                info@zensustech.com
               </a>
             </li>
             <li className="flex items-center gap-2.5">

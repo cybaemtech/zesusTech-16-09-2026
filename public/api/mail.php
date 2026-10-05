@@ -65,11 +65,11 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
 $submissionId = date('YmdHis') . substr(md5(uniqid((string) mt_rand(), true)), 0, 6);
 
 // Email Configurations
-// $adminEmail = "varadmule17@gmail.com";
+// $adminEmail = "info@zensustech.com";
 // $ccEmail = "Vinayak.salunkhe@zensustech.com, nikita.nagargoje@cybaemtech.com, varad.mule@cybaemtech.com";
 // $fromEmail = "no-reply@zensustech.com";
 
-$adminEmail = "varadmule17@gmail.com";
+$adminEmail = "info@zensustech.com";
 $ccEmail = "nikita.nagargoje@cybaemtech.com";
 $fromEmail = "no-reply@zensustech.com";
 
@@ -279,7 +279,7 @@ $userHtml = '<!DOCTYPE html>
         <tr>
           <td style="background:#f8fafc;padding:20px 32px;text-align:center;border-top:1px solid #e2e8f0;">
             <p style="margin:0 0 4px;font-size:12px;color:#64748b;">Direct Contact:</p>
-            <a href="mailto:varadmule17@gmail.com" style="font-size:13px;color:#0284c7;font-weight:700;text-decoration:none;">varadmule17@gmail.com</a>
+            <a href="mailto:info@zensustech.com" style="font-size:13px;color:#0284c7;font-weight:700;text-decoration:none;">info@zensustech.com</a>
             <p style="margin:10px 0 0;font-size:11px;color:#94a3b8;">&copy; ' . date('Y') . ' ZensusTech. All Rights Reserved.</p>
           </td>
         </tr>

@@ -23,7 +23,7 @@ export const Route = createFileRoute("/contact")({
 });
 
 const CONTACT_CHANNELS = [
-  { icon: Mail, label: "Email", value: "varadmule17@gmail.com", href: "mailto:varadmule17@gmail.com" },
+  { icon: Mail, label: "Email", value: "info@zensustech.com", href: "mailto:info@zensustech.com" },
   { icon: Phone, label: "Phone", value: "+91 9823101112", href: "tel:+919823101112" },
   { icon: MessageCircle, label: "WhatsApp", value: "+91 9823101112", href: "https://wa.me/919823101112" },
 ];
